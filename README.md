@@ -8,7 +8,7 @@
 <div align="right" style="margin:auto">
   <p>
     <a href="https://wakatime.com/@AndreLViana">
-      <img height="90em" align="right" src="https://github-readme-andre.vercel.app/api/top-langs/?username=andrelviana&theme=transparent&layout=compact&hide_border=true&hide_title=true">
+      <img height="100em" align="right" src="https://github-readme-andre.vercel.app/api/top-langs/?username=andrelviana&theme=transparent&layout=compact&hide_border=true&hide_title=true">
     </a>
   </p>
 </div>
