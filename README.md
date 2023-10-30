@@ -1,7 +1,7 @@
 # Hi there! I'm André!👋
 
 <div align="center">
-Junior Cybersecurity Analyst | Software Engineering student | Python | C++
+<strong>Junior Cybersecurity Analyst** | Software Engineering student | Python | C++</strong>
 </div>
 
 
