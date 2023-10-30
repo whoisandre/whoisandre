@@ -4,8 +4,6 @@
 <strong>Junior Cybersecurity Analyst | Software Engineering student | Python | C++</strong>
 </div>
 
-
-
 <div>
 <div align="right" style="margin:auto">
   <p>
@@ -16,16 +14,13 @@
 </div>
 
 
-
 <div align="right" style="margin:auto">
   <p>
     <a href="https://wakatime.com/@AndreLViana">
-      <img height="90em" align="right" src="https://github-readme-andre.vercel.app/api/wakatime?username=andrelviana&theme=transparent&hide_border=true&hide=markdown,html&hide_title=true&line_height=50&langs_count=4&layout=default">
+      <img height="100em" align="right" src="https://github-readme-andre.vercel.app/api/wakatime?username=andrelviana&theme=transparent&hide_border=true&hide=markdown,html&hide_title=true&line_height=50&langs_count=4&layout=default">
     </a>
   </p>
 </div>
-
-
 
 
 <div align="center" style="margin:auto">
@@ -42,12 +37,3 @@
   </div>
 </div>
 
-<br>
-
-<div align="center">
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,py,cpp,powershell" />
-  </a>
-</p>
-</div>
