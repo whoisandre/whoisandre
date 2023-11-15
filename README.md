@@ -27,13 +27,13 @@
   <div align="center" style="margin:auto">
     <div>
       <a href="https://www.linkedin.com/in/andr3lv/">
-        <img height=40 src="https://img.shields.io/badge/LinkedIn-0077B5?style=Social&logo=linkedin&logoColor=white">
+        <img height=20 src="https://img.shields.io/badge/LinkedIn-0077B5?style=Social&logo=linkedin&logoColor=white">
       </a>
     </div>
     <br>
   <div style="margin:auto">
     <a href="mailto:andr3.luiz.viana@gmail.com">
-      <img height=40 src="https://img.shields.io/badge/Gmail-D14836?style=Social&logo=gmail&logoColor=white">
+      <img height=20 src="https://img.shields.io/badge/Gmail-D14836?style=Social&logo=gmail&logoColor=white">
     </a>
     </div>
   </div>
