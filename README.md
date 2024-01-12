@@ -9,7 +9,7 @@
   <div align="left" style="margin:auto">
     <p>
       <a href="https://github.com/whoisandre">
-        <img height="120" align="right" src="https://github-readme-stats-whoisandre.vercel.app/api/top-langs/?username=whoisandre&theme=transparent&layout=compact&hide_border=true&hide_title=true">
+        <img height="110" align="right" src="https://github-readme-stats-whoisandre.vercel.app/api/top-langs/?username=whoisandre&theme=transparent&layout=compact&hide_border=true&hide_title=true">
       </a>
     </p>
   </div>
