@@ -18,7 +18,7 @@
   <div align="right" style="margin:auto">
     <p>
       <a href="https://github.com/whoisandre">
-        <img height="140" align="left" src="https://github-readme-stats-whoisandre.vercel.app/api/wakatime?username=whoisandre&theme=transparent&hide_border=true&hide=markdown,html,css&hide_title=true&line_height=50&langs_count=2&layout=default">
+        <img height="120" align="left" src="https://github-readme-stats-whoisandre.vercel.app/api/wakatime?username=whoisandre&theme=transparent&hide_border=true&hide=markdown,html,css&hide_title=true&line_height=50&langs_count=2&layout=default">
       </a>
     </p>
   </div>
